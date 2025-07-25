@@ -1,5 +1,26 @@
-# 💫 About Me:
-👨‍💻 About Me<br>Hi there! I'm Isaac Anasonye, a passionate Frontend Developer with a strong focus on building modern, responsive, and scalable web applications using React, Next.js,vue3, TypeScript, and Tailwind CSS.<br><br>I enjoy crafting intuitive user experiences, implementing complex UI logic (like canvas editors, charts, infinite scroll, and real-time updates), and collaborating on creative web projects. I also work with MobX, Redux, and Framer Motion to enhance interactivity and performance.<br><br>🚀 What I'm Working On<br>A powerful note and article editor platform with support for templates, rich-text editing, and searchable archives.<br><br>📚 Currently Exploring<br>Building design systems with Tailwind CSS<br><br>Advanced animation techniques with Framer Motion<br><br>Scalable architecture patterns in React apps<br><br>📬 Let's Connect<br>Feel free to reach out or collaborate! I'm always open to learning, building, and sharing ideas with the dev community.
+# 💫 About Me
+
+Hi there! I'm Isaac Anasonye — a Software Engineer based in Nigeria, with a strong focus on frontend development.
+
+I specialize in building modern, responsive, and scalable web applications using **TypeScript**, **React**, **Next.js**, **Vue 3**, and **Tailwind CSS**.  
+On the backend, I work with **Node.js**, **Express**, **MongoDB**, and **PostgreSQL** to support full-stack solutions.
+
+I enjoy transforming complex UI logic — such as canvas editors, real-time updates, charts, and infinite scroll — into seamless, high-performance user experiences.  
+I also make use of tools like **MobX**, **Redux**, **Framer Motion**, and **Chart.js** to enhance interactivity and design fluidity.
+
+### 🛠️ Tech Stack
+`TypeScript` · `React` · `Next.js` · `Vue 3` · `Tailwind CSS`  
+`Node.js` · `Express` · `MongoDB` · `PostgreSQL`  
+`MobX` · `Redux` · `Framer Motion` · `Chart.js`
+
+### 🌱 What Drives Me
+I'm passionate about building tools that empower people, shipping clean user experiences, and contributing to modern, scalable web ecosystems.  
+I’m always exploring new technologies and design patterns to level up both frontend and full-stack engineering.
+
+### 🤝 Let’s Connect
+I’m always open to collaboration, learning opportunities, or just connecting with fellow developers.  
+Feel free to reach out — let's build something awesome together!
+
 
 
 ## 🌐 Socials:
