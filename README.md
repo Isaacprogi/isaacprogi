@@ -11,7 +11,7 @@ I also make use of tools like **MobX**, **Redux**, **Framer Motion**, and **Char
 ### 🛠️ Tech Stack
 `TypeScript` · `React` · `Next.js` · `Vue 3` · `Tailwind CSS`  
 `Node.js` · `Express` · `MongoDB` · `PostgreSQL`  
-`MobX` · `Redux` 
+`MobX` · `Redux`
 
 ### 🌱 What Drives Me
 I'm passionate about building tools that empower people, shipping clean user experiences, and contributing to modern, scalable web ecosystems.  
@@ -19,7 +19,7 @@ I’m always exploring new technologies and design patterns to level up both fro
 
 ### 🤝 Let’s Connect
 I’m always open to collaboration, learning opportunities, or just connecting with fellow developers.  
-Feel free to reach out.Let's build something awesome together!
+Feel free to reach out. Let's build something awesome together!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/isaacanasonye) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:isaaconyes80@gmail.com) 
