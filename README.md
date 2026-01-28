@@ -1,4 +1,4 @@
-# 🧑‍💻 About Me
+# 🧑‍💻 HI, IT'S ISAAC
 
 Hi there! I'm Isaac Anasonye — a Software Engineer based in Nigeria, with a strong focus on frontend development.
 
