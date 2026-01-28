@@ -1,17 +1,46 @@
-# 🧑‍💻 HI, IT'S ISAAC
+# Hi, I’m Isaac 👋
 
-Hi there! I'm Isaac Anasonye — a Software Engineer based in Nigeria, with a strong focus on frontend development.
+My name is **Isaac Anasonye**, a software engineer based in Nigeria with a strong focus on frontend development.
 
 I specialize in building modern, responsive, and scalable web applications using **TypeScript**, **React**, **Next.js**, **Vue 3**, and **Tailwind CSS**.  
-On the backend, I work with **Node.js**, **Express**, **MongoDB**, and **PostgreSQL** to support full-stack solutions.
+On the backend, I work with **Node.js**, **Express**, **MongoDB**, and **PostgreSQL** to deliver complete full-stack solutions.
 
-I enjoy transforming complex UI logic such as canvas editors, real-time updates, charts, and infinite scroll into seamless, high-performance user experiences.  
-I also make use of tools like **MobX**, **Redux**, **Framer Motion**, and **Chart.js** to enhance interactivity and design fluidity.
+I enjoy turning complex UI logic—such as canvas editors, real-time updates, charts, and infinite scrolling—into smooth, high-performance user experiences.  
+I regularly use tools like **Context api**, **Redux**, **Zustand**, **Framer Motion**, and **Chart.js** to enhance interactivity and visual polish.
 
-### 🛠️ Tech Stack
-`TypeScript` · `React` · `Next.js` · `Vue 3` · `Tailwind CSS`  
-`Node.js` · `Express` · `MongoDB` · `PostgreSQL`  
-`MobX` · `Redux`
+---
+
+### 🛠 Tech Stack
+
+**Frontend**
+- TypeScript
+- React / Next.js
+- Vue 3
+- Tailwind CSS
+
+**Backend**
+- Node.js
+- Express
+- MongoDB
+- PostgreSQL
+
+**State & Animation**
+- Context api
+- Redux
+- Framer Motion
+- Zustand
+
+**Data & Visualization**
+- Chart.js
+
+---
+
+### 🚀 What I Care About
+- Clean and scalable architecture  
+- Thoughtful UI/UX  
+- Performance-driven frontend engineering  
+- Building products that scale and feel great to use
+
 
 ### 🌱 What Drives Me
 I'm passionate about building tools that empower people, shipping clean user experiences, and contributing to modern, scalable web ecosystems.  
