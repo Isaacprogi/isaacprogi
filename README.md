@@ -5,7 +5,7 @@ My name is **Isaac Anasonye**, a software engineer based in Nigeria with a stron
 I specialize in building modern, responsive, and scalable web applications using **TypeScript**, **React**, **Next.js**, **Vue 3**, and **Tailwind CSS**.  
 On the backend, I work with **Node.js**, **Express**, **MongoDB**, and **PostgreSQL** to deliver complete full-stack solutions.
 
-I enjoy turning complex UI logic—such as canvas editors, real-time updates, charts, and infinite scrolling—into smooth, high-performance user experiences.  
+I enjoy turning complex UI logic—such as real-time updates, charts, and infinite scrolling—into smooth, high-performance user experiences.  
 I regularly use tools like **Context api**, **Redux**, **Zustand**, **Framer Motion**, and **Chart.js** to enhance interactivity and visual polish.
 
 ---
