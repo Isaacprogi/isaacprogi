@@ -1,5 +1,7 @@
 # Hi, I’m Isaac 👋
 
+![Profile Banner](./mee.png)
+
 My name is **Isaac Anasonye**, a software engineer based in Nigeria with a strong focus on frontend development.
 
 I specialize in building modern, responsive, and scalable web applications using **TypeScript**, **React**, **Next.js**, **Vue 3**, and **Tailwind CSS**.  
