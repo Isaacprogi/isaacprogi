@@ -1,4 +1,4 @@
-# Hi, I’m Isaac 👋
+# Hi👋
 
 ![Profile Banner](./mee.png)
 
