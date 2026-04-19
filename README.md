@@ -1,18 +1,16 @@
-# Hi👋
+# Hey👋 Call me Isaac
 
 ![Profile Banner](./mee.png)
 
-My name is **Isaac Anasonye**, a software engineer based in Nigeria with a strong focus on frontend development.
+I'm a software engineer from Nigeria with a strong focus on frontend development.
 
-I specialize in building modern, responsive, and scalable web applications using **TypeScript**, **React**, **Next.js**, **Vue 3**, and **Tailwind CSS**.  
-On the backend, I work with **Node.js**, **Express**, **MongoDB**, and **PostgreSQL** to deliver complete full-stack solutions.
+I craft the web and build tools.
 
-I enjoy turning complex UI logic—such as real-time updates, charts, and infinite scrolling—into smooth, high-performance user experiences.  
-I regularly use tools like **Context api**, **Redux**, **Zustand**, **Framer Motion**, and **Chart.js** to enhance interactivity and visual polish.
+I enjoy turning ideas into something useful and interactive things.
 
 ---
 
-### 🛠 Tech Stack
+### My stack
 
 **Frontend**
 - TypeScript
@@ -37,7 +35,7 @@ I regularly use tools like **Context api**, **Redux**, **Zustand**, **Framer Mot
 
 ---
 
-### 🚀 What I Care About
+### I care about
 - Clean and scalable architecture  
 - Thoughtful UI/UX  
 - Performance-driven frontend engineering  
