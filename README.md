@@ -1,47 +1,25 @@
 # Hey👋 Call me Isaac
 
+I’m a software engineer based in Nigeria, working across both the frontend and backend.
 
-I'm a software engineer from Nigeria. I am skilled on both the frontend and backend.
+Frontend is where I feel most at home 👌
 
-Frontend is my preference👌☺️
-
-I craft the web and build tools.
-
-I enjoy turning ideas into something useful and interactive.
+I enjoy crafting interfaces, building tools, and turning abstract ideas into interactive, useful experiences on the web.
 
 ---
 
-### I work with
+### Stack
 
-**On the frontend**
-- TypeScript
-- React / Next.js
-- Vue 3
-- Tailwind CSS
+Frontend: TypeScript, React (Next.js), Vue 3, Tailwind CSS
+Backend: Node.js, Express, PostgreSQL, MongoDB, Supabase
+State & Animation: Context API, Redux, Zustand, Framer Motion
+Data Viz: Chart.js
 
-**Then the backend**
-- Node.js
-- Express
-- MongoDB
-- Supabase
-- PostgreSQL
-
-**State & Animation**
-- Context api
-- Redux
-- Framer Motion
-- Zustand
-
-**Data & Visualization**
-- Chart.js
----
-
-### I care about
-- Clean and scalable architecture  
-- Thoughtful UI/UX  
-- Performance-driven frontend engineering  
-- Building products that scale and feel great to use
-
+### Principles
+Scalable, maintainable architecture
+Performance-first frontend engineering
+Intentional, user-centered design
+Systems that are both robust and pleasant to use
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/isaacanasonye) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:isaaconyes80@gmail.com) 
