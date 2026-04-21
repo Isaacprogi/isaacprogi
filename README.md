@@ -1,6 +1,6 @@
 # Hey👋 Call me Isaac
 
-I’m a software engineer based in Nigeria, working across both the frontend and backend.
+I’m a software engineer from Nigeria, working across both the frontend and backend.
 
 Frontend is where I feel most at home 👌
 
