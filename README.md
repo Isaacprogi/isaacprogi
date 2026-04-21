@@ -2,8 +2,6 @@
 
 I’m a software engineer from Nigeria, working across both the frontend and backend.
 
-Frontend is where I feel most at home 👌
-
 I enjoy crafting interfaces, building tools, and turning abstract ideas into interactive, useful experiences on the web.
 
 ---
