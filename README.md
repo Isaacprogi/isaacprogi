@@ -4,8 +4,7 @@ I’m a software engineer from Nigeria, working across both the frontend and bac
 
 I enjoy crafting interfaces, building tools, and turning abstract ideas into interactive, useful experiences on the web.
 
-![Uploading image (4).jpg…]()
----
+<img width="992" height="1040" alt="image (4)" src="https://github.com/user-attachments/assets/7d645a6b-c139-48f4-b572-3b4edbafdcca" />
 
 ### Stack
 
